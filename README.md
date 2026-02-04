@@ -1,2 +1,12 @@
-# Biginner-level-projects
-Few projects taken from **awesome-cse-projects** for practical understanding while doing projects(No AI has will be used for programming *can beb used for ideas or understanding* 
+# Beginner-Level Projects
+
+A collection of beginner-friendly projects for practical learning.
+
+## Projects
+
+### Calculator
+A simple calculator web application with basic arithmetic operations (+, -, *, /).
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+ 
